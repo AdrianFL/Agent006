@@ -1,0 +1,1 @@
+If you have the latest stable version of CPCTelera correctlly installed in you computer, simply execute "make" command in this folder.

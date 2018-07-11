@@ -1,0 +1,7 @@
+Throughout the game, player can collect up to seven different characters.
+
+Once picked up, they appear in the top of the screen.
+
+Those characters are drawn in Phantis logo fashion.
+
+If player is able to collect them all and finish the game, an extra text appears in the end game screen, congratulating the player for being able of finding out the secret message (Phantis).
